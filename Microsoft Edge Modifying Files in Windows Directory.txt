@@ -1,0 +1,2 @@
+badIntel
+C:\WINDOWS\system32\IMM32.DLL
