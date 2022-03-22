@@ -1,0 +1,48 @@
+ Script Based Scheduled Tasks
+ Word Spawned Connection to Port 80
+ Password Values in Registry
+ Log4j Scanning Hosts
+ Unsigned Process Creating a PowerShell Script
+ Log4j vulnerable libraries
+ User Added to Local Administrators
+ Windows Accessibility Logon Bypasses
+ RDP Tunneling
+ Office Applications Executing AppData Binaries
+ Indirect Command Execution
+ Uncommon XSL Scrip Execution
+ WMI Managed Object Format Execution
+ Regasm DLL Load
+ COM Hijack Reg
+ Emotet Payloads
+ Firefox Modifying Files in Windows Directory
+ Suspicious PowerShell Command Line
+ Disable Windows Defender
+ Suspicious PowerShell Process Ancestry
+ Hafnium related IOC
+ PowerPoint Spawned Connection to Port 80
+ Kerberoasting
+ Unsigned Process Modifying Files in Windows Directory
+ Non Break Space Character
+ Suspicious System Management Automation Image Load
+ Spooler Service Creating or Spawning Executables
+ Chrome Spawned CMD
+ Word Spawned Connection to Port 443
+ Unsigned Process Creating a Library
+ Werfault with Suspicious Command Invocation
+ PowerPoint Spawned Connection to Port 443
+ PowerPoint spawned connection to Port 443
+ Excel Spawned Connection to Port 80
+ Unsigned Process Creating a Binary
+ Microsoft Workflow Compiler Misuse
+ Script Based Scheduled Tasks
+ Word Spawned Connection to Port 80
+ Password Values in Registry
+ Log4j Scanning Hosts
+ Unsigned Process Creating a PowerShell Script
+ Log4j vulnerable libraries
+ User Added to Local Administrators
+ Windows Accessibility Logon Bypasses
+ RDP Tunneling
+ Office Applications Executing AppData Binaries
+ Indirect Command Execution
+ Uncommon XSL Scrip Execution
